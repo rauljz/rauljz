@@ -1,13 +1,13 @@
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Raúl Jiménez](https://rauljz.github.io) 👋
 
-I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I am currently completing my Bachelor's in Computer Science Engineering with a focus on Computing at the University of Huelva. Alongside my studies, I am a passionate software developer with experience in Machine Learning and API development. I enjoy exploring new technologies, writing articles on software development, data analysis, and contributing to open-source projects.e.
 
 **My Research Interest**:
-- Outlying Aspect Mining
+- Machine Learning Algorithms
 - Classification
 - Clustering
-- Anomaly Detection
-- Similarity Measure
+- Data Analysis
+- API Development
 
  **I am open to**:
 
