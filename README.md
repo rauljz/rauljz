@@ -1,6 +1,6 @@
 ### Hi there, I'm [Raúl Jiménez](www.linkedin.com/in/raúl-jiménez-728793283) 👋
 
-I am  Computer Science Engineering with a focus on Computing. Alongside my studies, I am a passionate software developer with experience in Machine Learning and API development. I enjoy exploring new technologies, writing articles on software development, data analysis, and contributing to open-source projects.e.
+I am  Computer Science Engineering with a focus on Computing. Alongside my studies, I am a passionate software developer with experience in Machine Learning and API development. I enjoy exploring new technologies, writing articles on software development, data analysis, and contributing to open-source projects.
 
 **My Research Interest**:
 - Machine Learning Algorithms
