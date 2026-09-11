@@ -70,21 +70,12 @@ My portfolio isn't just a CV — it has **9 real, interactive ML demos running l
 
 <p align="center">
   <a href="https://rauljz.vercel.app">
-    <img src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" alt="Portfolio">
+    <img src="https://img.shields.io/badge/portfolio-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://x.com/JisuRaul">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="Twitter">
+    <img src="https://img.shields.io/badge/x-000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
   <a href="https://www.linkedin.com/in/rauljzz">
-    <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rauljz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Raúl's github stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauljz&layout=compact&theme=buefy&hide_border=true" />
-  </a>
-</div>
