@@ -20,7 +20,7 @@ Currently at **Multiverse Computing**, building **Multiverse Foundry**: GPU clus
 
 My portfolio isn't just a CV — it has **9 real, interactive ML demos running live in the browser**: a real GPT tokenizer (cl100k_base), a real MiniLM transformer computing genuine self-attention weights, a real YOLOS object-detection model you can run on your own photos, and more — no simulations.
 
-**→ [rauljz.vercel.app](https://rauljz.vercel.app)**
+**→ [rauljz.vercel.app](https://rauljz.dev)**
 
 ---
 
