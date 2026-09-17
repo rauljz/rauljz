@@ -5,7 +5,7 @@ I'm an **MLOps & LLMOps Engineer**. I deploy AI that survives contact with produ
 Currently at **Multiverse Computing**, building **Multiverse Foundry**: GPU cluster orchestration for 50+ concurrent workloads, model compression with CompactifAI, and GitOps deployment on Kubernetes (Helm, vLLM, ArgoCD) over AWS. Previously at **Atrebo**, shipping enterprise RAG/LLM systems with LangChain and vector databases indexing 100K+ documents. I also co-founded **[Berriq](https://berriq.es)** 🍓 — an agritech startup predicting crop yield for berry cooperatives, selected for the Andalucía Open Future & Telefónica startup program.
 
 **🚀 My Core Focus:**
-- **Generative AI:** LLMs, RAG, fine-tuning (LoRA/quantization), prompt engineering.
+- **Generative AI:** Quantization, Fine-tuning (LoRA/QLoRA), Distillation, Model Compression, Inference Optimization.
 - **MLOps & Engineering:** GPU orchestration, GitOps (ArgoCD/Helm), model serving with vLLM, CI/CD on Kubernetes.
 - **Applied ML:** Time-series forecasting, computer vision, and turning ML research into products people actually use.
 
